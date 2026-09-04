@@ -104,18 +104,6 @@ O projeto foi construído utilizando a representação visual de algoritmos atra
 
 ---
 
-## 📂 Arquivo do projeto
-
-O repositório contém o arquivo:
-
-```text
-calculadora.fprg
-```
-
-O arquivo pode ser aberto diretamente no **Flowgorithm** para visualizar, executar e modificar o algoritmo.
-
----
-
 ## 🎯 Objetivo do projeto
 
 O principal objetivo foi transformar conhecimentos teóricos de **lógica de programação** em um algoritmo funcional.
