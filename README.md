@@ -158,7 +158,3 @@ A ideia principal é simples:
 **Gabriel da Silva**
 
 Estudante de Ciência da Computação | Explorando programação, lógica e desenvolvimento de software.
-
----
-
-⭐ **Se você achou o projeto interessante, considere deixar uma estrela no repositório!**
