@@ -96,26 +96,6 @@ O fluxograma utiliza uma sequência de decisões para identificar a opção esco
 
 ---
 
-## 🛠️ Ferramenta utilizada
-
-**Flowgorithm**
-
-O projeto foi construído utilizando a representação visual de algoritmos através de fluxogramas, permitindo visualizar de forma clara o fluxo de execução do programa.
-
----
-
-## 📂 Arquivo do projeto
-
-O repositório contém o arquivo:
-
-```text
-calculadora.fprg
-```
-
-O arquivo pode ser aberto diretamente no **Flowgorithm** para visualizar, executar e modificar o algoritmo.
-
----
-
 ## 🎯 Objetivo do projeto
 
 O principal objetivo foi transformar conhecimentos teóricos de **lógica de programação** em um algoritmo funcional.
@@ -125,21 +105,6 @@ Além das operações básicas de uma calculadora, o projeto explora diferentes 
 Este projeto representa uma das etapas da minha evolução no aprendizado de programação:
 
 > **Entender o problema → construir a lógica → transformar em algoritmo → testar a solução.**
-
----
-
-## 🚀 Possíveis melhorias
-
-Algumas funcionalidades que podem ser adicionadas futuramente:
-
-* [ ] Permitir realizar várias operações sem reiniciar o programa
-* [ ] Adicionar tratamento para divisão por zero
-* [ ] Validar entradas do usuário
-* [ ] Criar um menu mais organizado
-* [ ] Adicionar mais funções matemáticas
-* [ ] Reescrever o algoritmo em uma linguagem de programação
-* [ ] Criar uma interface gráfica
-* [ ] Adicionar histórico de operações
 
 ---
 
@@ -160,5 +125,3 @@ A ideia principal é simples:
 Estudante de Ciência da Computação | Explorando programação, lógica e desenvolvimento de software.
 
 ---
-
-⭐ **Se você achou o projeto interessante, considere deixar uma estrela no repositório!**
